@@ -3,12 +3,12 @@
 核心特点：
 低成本替代方案
 
-  通过 桥接软件（KAS-VECTOR-BRIDGE.exe） + CAN FD 适配器，提供接近 Vector 官方工具链的功能，显著降低硬件与软件授权成本。
+  通过 桥接软件（KAS-VECTOR-BRIDGE.exe） + CAN FD 适配器，提供接近 Vector 官方工具链的功能。
   
 兼容性与稳定性
 
   全面支持 CAN FD 协议，通过严苛测试（3×24小时连续运行，处理 12.1亿帧0丢包）。
-  完美对接 Vector 生态（如 CANoe/CANalyzer），兼容常见脚本及工程配置。
+  完美对接 Vector 生态（如 CANoe/CANape/CANalyzer），兼容常见CAPL脚本及工程配置。
   
 轻量化与高性能
 
@@ -25,7 +25,7 @@
   
 使用前提
 
-  需提前解决 Vector 软件授权（License），参考万能的宝和海鲜市场。
+  需自行解决 Vector 软件授权（License），参考万能的宝和海鲜市场。
   
 获取方式
 
