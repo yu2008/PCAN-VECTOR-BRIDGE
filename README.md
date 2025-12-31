@@ -1,7 +1,7 @@
 # PCAN-VECTOR-BRIDGE
 
 核心特点：
-低成本替代方案
+低成本使用Vector生态软件（如 CANoe/CANape/CANalyzer）的方案
 
   通过 桥接软件（KAS-VECTOR-BRIDGE.exe） + CAN FD 适配器，提供接近 Vector 官方工具链的功能。
   
